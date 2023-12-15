@@ -73,6 +73,3 @@ conn = pymysql.connect(host='localhost', user='root', password='', database='srs
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-Feel free to customize and extend the system based on your requirements!
-```
