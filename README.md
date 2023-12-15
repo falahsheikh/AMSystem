@@ -1,6 +1,3 @@
-Certainly! Below is a README file you can include in your project. Copy and paste this content into a file named `README.md` in the root directory of your project:
-
-```markdown
 # Student Record System (SRS) using tkinter and MySQL
 
 ## Overview
@@ -60,5 +57,3 @@ Feel free to modify and extend the program according to your needs. If you encou
 
 Happy coding!
 ```
-
-Make sure to update the URLs, dependencies, and any other details as needed for your specific project.
