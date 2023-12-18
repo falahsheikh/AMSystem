@@ -1,4 +1,4 @@
-# Student Record System (SRS) using Tkinter and MySQL
+# AMSystem
 
 ## Introduction
 
